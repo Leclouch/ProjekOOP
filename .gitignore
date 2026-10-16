@@ -1,0 +1,23 @@
+# Hasil build CMake (termasuk raylib/raygui yang diunduh)
+build/
+cmake-build-*/
+tools/
+
+# File hasil compile
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
